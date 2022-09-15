@@ -1,116 +1,12 @@
 {
   "clientes": [
     {
-      "nombre": "fewfwefwefwef",
+      "nombre": "Federico",
       "empresa": "CESSI",
-      "email": "wefewolo@hotmail.com",
+      "email": "federiconicolo@hotmail.com",
       "telefono": 2345499481,
-      "notas": "",
+      "notas": "me pica la cola",
       "id": 1
-    },
-    {
-      "nombre": "rtyhjgfsdvcdsvsdvsd",
-      "empresa": "gregrgrwggwge",
-      "email": "wefewolo@hotmail.com",
-      "telefono": 2345499481,
-      "notas": "",
-      "id": 2
-    },
-    {
-      "nombre": "marco dipalma",
-      "empresa": "gregrgrwggwge",
-      "email": "wefewolo@hotmail.com",
-      "telefono": 2345499481,
-      "notas": "",
-      "id": 3
-    },
-    {
-      "nombre": "juliana",
-      "empresa": "fadu",
-      "email": "juli@fadu.com",
-      "telefono": 2345499481,
-      "notas": "",
-      "id": 4
-    },
-    {
-      "nombre": "juliana",
-      "empresa": "fadu",
-      "email": "juli@fadu.com",
-      "telefono": 2345499481,
-      "notas": "",
-      "id": 5
-    },
-    {
-      "nombre": "juliana",
-      "empresa": "fadu",
-      "email": "juli@fadu.com",
-      "telefono": 2345499481,
-      "notas": "",
-      "id": 6
-    },
-    {
-      "nombre": "juliana",
-      "empresa": "fadu",
-      "email": "juli@fadu.com",
-      "telefono": 2345499481,
-      "notas": "",
-      "id": 7
-    },
-    {
-      "nombre": "juliana",
-      "empresa": "fadu",
-      "email": "juli@fadu.com",
-      "telefono": 2345499481,
-      "notas": "",
-      "id": 8
-    },
-    {
-      "nombre": "juliana",
-      "empresa": "fadu",
-      "email": "juli@fadu.com",
-      "telefono": 2345499481,
-      "notas": "",
-      "id": 9
-    },
-    {
-      "nombre": "juliana",
-      "empresa": "fadu",
-      "email": "juli@fadu.com",
-      "telefono": 2345499481,
-      "notas": "",
-      "id": 10
-    },
-    {
-      "nombre": "juliana",
-      "empresa": "fadu",
-      "email": "juli@fadu.com",
-      "telefono": 2345499481,
-      "notas": "",
-      "id": 11
-    },
-    {
-      "nombre": "juliana3152652",
-      "empresa": "fadurytjhyj",
-      "email": "judsfdsfsdfsdfli@fadu.com",
-      "telefono": 2345499481,
-      "notas": "",
-      "id": 12
-    },
-    {
-      "nombre": "juliana3152652",
-      "empresa": "fadurytjhyj",
-      "email": "judsfdsfsdfsdfli@fadu.com",
-      "telefono": 2345499481,
-      "notas": "",
-      "id": 13
-    },
-    {
-      "nombre": "juliana3152652",
-      "empresa": "fadurytjhyj",
-      "email": "judsfdsfsdfsdfli@fadu.com",
-      "telefono": 2345499481,
-      "notas": "",
-      "id": 14
     }
   ]
 }

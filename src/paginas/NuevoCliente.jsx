@@ -1,7 +1,5 @@
 import Formulario from "../components/Formulario"
 
-
-
 const NuevoCliente = () => {
   return (
     <>

@@ -4,7 +4,8 @@ import { Outlet, Link, useLocation } from "react-router-dom"
 const Layout = () => {
 
   const location = useLocation()
-  const urlActual = location.pathname
+  console.log(location);
+  const urlActual = location.pathname //para saber en que parte está
 
   return (
     <div className="md:flex md:min-h-screen">
