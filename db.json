@@ -1,12 +1,12 @@
 {
   "clientes": [
     {
-      "nombre": "Federico",
-      "empresa": "CESSI",
+      "nombre": "fewfwef",
+      "empresa": "fadu",
       "email": "federiconicolo@hotmail.com",
       "telefono": 2345499481,
-      "notas": "me pica la cola",
-      "id": 1
+      "notas": "",
+      "id": 3
     }
   ]
 }
